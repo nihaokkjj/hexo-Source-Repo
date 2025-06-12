@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 Dijkstra
 ## 朴素版dijkstra适合稠密图
 思路

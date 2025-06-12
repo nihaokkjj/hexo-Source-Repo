@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 题目![](Pasted%20image%2020241219220407.png)
 ~~~
 #include <cstring>
